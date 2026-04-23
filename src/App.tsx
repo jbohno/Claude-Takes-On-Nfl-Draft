@@ -1,18 +1,14 @@
 import { useState } from 'react';
-import { ListOrdered, Users, Upload, Bot, Activity } from 'lucide-react';
+import { ListOrdered, Eye, ClipboardList } from 'lucide-react';
 import { Tabs, type TabDef } from './components/Tabs';
-import { BigBoard } from './components/BigBoard/BigBoard';
-import { ConsensusMock } from './components/ConsensusMock';
-import { MyMock } from './components/MyMock';
-import { ClaudesMock } from './components/ClaudesMock';
-import { ClaudesTop50 } from './components/ClaudesTop50';
+import { BigBoards } from './components/BigBoards';
+import { PredictedMock } from './components/Mocks/PredictedMock';
+import { GMMock } from './components/Mocks/GMMock';
 
 const TABS: TabDef[] = [
-  { id: 'big-board',       label: 'My Big Board',      icon: ListOrdered },
-  { id: 'consensus-mock',  label: 'Consensus Mock',    icon: Users },
-  { id: 'my-mock',         label: 'My Mock',           icon: Upload },
-  { id: 'claudes-mock',    label: "Claude's Mock",     icon: Bot },
-  { id: 'claudes-top-50',  label: "Claude's Top 50",   icon: Activity },
+  { id: 'big-boards',     label: 'Big Boards',     icon: ListOrdered },
+  { id: 'predicted-mock', label: 'Predicted Mock', icon: Eye },
+  { id: 'gm-mock',        label: 'GM Mock',        icon: ClipboardList },
 ];
 
 export default function App() {
@@ -26,7 +22,7 @@ export default function App() {
             <div className="w-1 h-8 bg-accent" />
             <div>
               <h1 className="hdr text-2xl leading-none">2026 NFL Draft Dashboard</h1>
-              <p className="mono text-xs text-mute mt-1">COMMAND CENTER / DRAFT WAR-ROOM</p>
+              <p className="mono text-xs text-mute mt-1">ME vs. CLAUDE · DRAFT WAR-ROOM</p>
             </div>
           </div>
           <div className="mono text-xs text-mute hidden sm:block">LOCAL-ONLY · NO SYNC</div>
@@ -36,11 +32,9 @@ export default function App() {
       <Tabs tabs={TABS} active={active} onChange={setActive} />
 
       <main className="flex-1 max-w-7xl w-full mx-auto px-5 py-6">
-        {active === 'big-board'      && <BigBoard />}
-        {active === 'consensus-mock' && <ConsensusMock />}
-        {active === 'my-mock'        && <MyMock />}
-        {active === 'claudes-mock'   && <ClaudesMock />}
-        {active === 'claudes-top-50' && <ClaudesTop50 />}
+        {active === 'big-boards'     && <BigBoards />}
+        {active === 'predicted-mock' && <PredictedMock />}
+        {active === 'gm-mock'        && <GMMock />}
       </main>
 
       <footer className="border-t border-edge bg-panel mt-auto">

@@ -14,26 +14,16 @@ export interface Player {
   tier: Tier;
 }
 
-export interface ConsensusPick {
+export interface Pick {
   pick: number;
-  team: string;
-  teamAbbr: string;
-  need: string;
+  team: string;            // team key (e.g. "LV", "NYJ")
   player: string;
   pos: Position;
   school: string;
-  adp: number;
+  reasoning?: string;      // optional, used by GM mocks
 }
 
-export interface ClaudesPick {
-  pick: number;
-  team: string;
-  teamAbbr: string;
-  player: string;
-  pos: Position;
-  school: string;
-  reasoning: string;
-}
+export type MockSlot = 'my-predicted' | 'claudes-predicted' | 'my-gm' | 'claudes-gm';
 
 export interface RASEntry {
   ras: number | null;
