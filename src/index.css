@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;800&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: #0a0a0a;
+  color: #e6e6e6;
+  font-family: 'IBM Plex Sans', ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer base {
+  h1, h2, h3, h4 {
+    font-family: 'Barlow Condensed', 'Oswald', ui-sans-serif, system-ui;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+  }
+}
+
+@layer components {
+  .panel {
+    @apply bg-panel border border-edge;
+  }
+  .card-sharp {
+    @apply bg-card border border-edge transition-colors;
+  }
+  .card-sharp:hover {
+    @apply bg-cardHover border-[#3a3a3a];
+  }
+  .btn {
+    @apply inline-flex items-center gap-2 px-3 py-2 border border-edge bg-card text-ink text-sm font-medium hover:border-accent hover:text-accent transition-colors;
+  }
+  .btn-danger {
+    @apply inline-flex items-center gap-2 px-3 py-2 border border-edge bg-card text-ink text-sm font-medium hover:border-danger hover:text-danger transition-colors;
+  }
+  .pill {
+    @apply inline-flex items-center justify-center px-2 py-0.5 text-xs font-bold tracking-wider uppercase;
+  }
+  .hdr {
+    @apply font-display font-bold uppercase tracking-wider;
+  }
+  .mono {
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+  }
+}
+
+/* Scrollbar in the dark theme */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: #0a0a0a; }
+::-webkit-scrollbar-thumb { background: #2a2a2a; }
+::-webkit-scrollbar-thumb:hover { background: #3a3a3a; }

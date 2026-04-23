@@ -1,0 +1,45 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: ['./index.html', './src/**/*.{ts,tsx}'],
+  theme: {
+    extend: {
+      colors: {
+        base: '#0a0a0a',
+        panel: '#111111',
+        card: '#1a1a1a',
+        cardHover: '#222222',
+        edge: '#2a2a2a',
+        ink: '#e6e6e6',
+        mute: '#8a8a8a',
+        accent: '#00ff88',
+        accentDim: '#009955',
+        danger: '#dc2626',
+        gold: '#f5b301',
+        'pos-qb': '#f5b301',
+        'pos-rb': '#a855f7',
+        'pos-wr': '#3b82f6',
+        'pos-te': '#14b8a6',
+        'pos-ot': '#22c55e',
+        'pos-ol': '#22c55e',
+        'pos-iol': '#16a34a',
+        'pos-edge': '#ef4444',
+        'pos-de': '#f97316',
+        'pos-dt': '#f97316',
+        'pos-lb': '#eab308',
+        'pos-cb': '#06b6d4',
+        'pos-s': '#8b5cf6',
+        'pos-ath': '#94a3b8',
+      },
+      fontFamily: {
+        display: ['"Barlow Condensed"', '"Oswald"', 'ui-sans-serif', 'system-ui'],
+        sans: ['"IBM Plex Sans"', 'ui-sans-serif', 'system-ui'],
+        mono: ['"IBM Plex Mono"', 'ui-monospace', 'monospace'],
+      },
+      boxShadow: {
+        sharp: '0 0 0 1px #2a2a2a',
+        glow: '0 0 0 1px #00ff88, 0 0 24px rgba(0,255,136,0.15)',
+      },
+    },
+  },
+  plugins: [],
+}
