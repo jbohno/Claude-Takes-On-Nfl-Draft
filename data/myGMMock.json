@@ -1,226 +1,34 @@
 [
-  {
-    "pick": 1,
-    "team": "LV",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 2,
-    "team": "NYJ",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 3,
-    "team": "ARI",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 4,
-    "team": "TEN",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 5,
-    "team": "NYG",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 6,
-    "team": "CLE",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 7,
-    "team": "WSH",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 8,
-    "team": "NO",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 9,
-    "team": "KC",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 10,
-    "team": "NYG",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 11,
-    "team": "MIA",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 12,
-    "team": "DAL",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 13,
-    "team": "LAR",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 14,
-    "team": "BAL",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 15,
-    "team": "TB",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 16,
-    "team": "NYJ",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 17,
-    "team": "DET",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 18,
-    "team": "MIN",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 19,
-    "team": "CAR",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 20,
-    "team": "DAL",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 21,
-    "team": "PIT",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 22,
-    "team": "LAC",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 23,
-    "team": "PHI",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 24,
-    "team": "CLE",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 25,
-    "team": "CHI",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 26,
-    "team": "BUF",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 27,
-    "team": "SF",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 28,
-    "team": "HOU",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 29,
-    "team": "KC",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 30,
-    "team": "MIA",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 31,
-    "team": "NE",
-    "player": "",
-    "pos": "",
-    "school": ""
-  },
-  {
-    "pick": 32,
-    "team": "SEA",
-    "player": "",
-    "pos": "",
-    "school": ""
-  }
+  { "pick": 1,  "team": "LV",  "player": "Fernando Mendoza",      "pos": "QB",   "school": "Indiana" },
+  { "pick": 2,  "team": "NYJ", "player": "Sonny Styles",          "pos": "LB",   "school": "Ohio State" },
+  { "pick": 3,  "team": "ARI", "player": "Arvell Reese",          "pos": "EDGE", "school": "Ohio State" },
+  { "pick": 4,  "team": "TEN", "player": "David Bailey",          "pos": "EDGE", "school": "Texas Tech" },
+  { "pick": 5,  "team": "NYG", "player": "Francis Mauigoa",       "pos": "OT",   "school": "Miami (FL)" },
+  { "pick": 6,  "team": "CLE", "player": "Makai Lemon",           "pos": "WR",   "school": "USC" },
+  { "pick": 7,  "team": "WSH", "player": "Jeremiyah Love",        "pos": "RB",   "school": "Notre Dame" },
+  { "pick": 8,  "team": "NO",  "player": "Rueben Bain Jr.",       "pos": "EDGE", "school": "Miami (FL)" },
+  { "pick": 9,  "team": "KC",  "player": "Caleb Downs",           "pos": "S",    "school": "Ohio State" },
+  { "pick": 10, "team": "NYG", "player": "Carnell Tate",          "pos": "WR",   "school": "Ohio State" },
+  { "pick": 11, "team": "MIA", "player": "Jordyn Tyson",          "pos": "WR",   "school": "Arizona State" },
+  { "pick": 12, "team": "DAL", "player": "Mansoor Delane",        "pos": "CB",   "school": "LSU" },
+  { "pick": 13, "team": "LAR", "player": "Dillon Thieneman",      "pos": "S",    "school": "Oregon" },
+  { "pick": 14, "team": "BAL", "player": "Olaivavega Ioane",      "pos": "IOL",  "school": "Penn State" },
+  { "pick": 15, "team": "TB",  "player": "Kenyon Sadiq",          "pos": "TE",   "school": "Oregon" },
+  { "pick": 16, "team": "NYJ", "player": "Omar Cooper Jr.",       "pos": "WR",   "school": "Indiana" },
+  { "pick": 17, "team": "DET", "player": "Spencer Fano",          "pos": "OT",   "school": "Utah" },
+  { "pick": 18, "team": "MIN", "player": "Emmanuel McNeil-Warren","pos": "S",    "school": "Toledo" },
+  { "pick": 19, "team": "CAR", "player": "Kadyn Proctor",         "pos": "OT",   "school": "Alabama" },
+  { "pick": 20, "team": "DAL", "player": "CJ Allen",              "pos": "LB",   "school": "Georgia" },
+  { "pick": 21, "team": "PIT", "player": "Caleb Lomu",            "pos": "OT",   "school": "Utah" },
+  { "pick": 22, "team": "LAC", "player": "Monroe Freeling",       "pos": "OT",   "school": "Georgia" },
+  { "pick": 23, "team": "PHI", "player": "Malachi Lawrence",      "pos": "EDGE", "school": "UCF" },
+  { "pick": 24, "team": "CLE", "player": "Max Iheanachor",        "pos": "OT",   "school": "Arizona State" },
+  { "pick": 25, "team": "CHI", "player": "Akheem Mesidor",        "pos": "EDGE", "school": "Miami (FL)" },
+  { "pick": 26, "team": "BUF", "player": "Denzel Boston",         "pos": "WR",   "school": "Washington" },
+  { "pick": 27, "team": "SF",  "player": "KC Concepcion",         "pos": "WR",   "school": "Texas A&M" },
+  { "pick": 28, "team": "HOU", "player": "Chase Bisontis",        "pos": "IOL",  "school": "Texas A&M" },
+  { "pick": 29, "team": "KC",  "player": "Blake Miller",          "pos": "OT",   "school": "Clemson" },
+  { "pick": 30, "team": "MIA", "player": "Avieon Terrell",        "pos": "CB",   "school": "Clemson" },
+  { "pick": 31, "team": "NE",  "player": "Jacob Rodriguez",       "pos": "LB",   "school": "Texas Tech" },
+  { "pick": 32, "team": "SEA", "player": "Keldric Faulk",         "pos": "EDGE", "school": "Auburn" }
 ]

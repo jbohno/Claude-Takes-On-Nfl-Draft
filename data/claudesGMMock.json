@@ -1,258 +1,130 @@
 [
   {
-    "pick": 1,
-    "team": "LV",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 1, "team": "LV", "player": "Fernando Mendoza", "pos": "QB", "school": "Indiana",
+    "reasoning": "The Raiders are QB-starved and Mendoza is the class's only clean franchise passer — arm strength, decision-making, and the kind of pocket composure that survives a bad offense. You don't overthink the #1 pick when a QB sits alone in Tier 1. Build the next decade around him."
   },
   {
-    "pick": 2,
-    "team": "NYJ",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 2, "team": "NYJ", "player": "Arvell Reese", "pos": "LB", "school": "Ohio State",
+    "reasoning": "Reese is a sideline-to-sideline LB/EDGE hybrid with rare closing speed and the tape to anchor a defense immediately. The Jets have a defensive-minded regime that will weaponize his versatility on blitz packages and coverage. Positional value is lower than EDGE, but the player is a tier-1 talent — you take him."
   },
   {
-    "pick": 3,
-    "team": "ARI",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 3, "team": "ARI", "player": "David Bailey", "pos": "EDGE", "school": "Texas Tech",
+    "reasoning": "Arizona still needs a bookend pass rusher to pair with their defensive front, and Bailey's bend-and-power combo is the cleanest EDGE profile in the class. Elite first-step plus hand usage translates to immediate pressure production. This is the kind of foundational defensive pick that a rebuilding team can't afford to pass on."
   },
   {
-    "pick": 4,
-    "team": "TEN",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 4, "team": "TEN", "player": "Francis Mauigoa", "pos": "OT", "school": "Miami (FL)",
+    "reasoning": "If you're invested in Will Levis, you have to protect him — Mauigoa is the class's most polished LT and immediately solidifies Tennessee's blind side for a decade. Skill-position reinforcements can wait; you don't build an offense from skill outward. Tackle is a scarcity position and this board starts thinning quickly."
   },
   {
-    "pick": 5,
-    "team": "NYG",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 5, "team": "NYG", "player": "Jeremiyah Love", "pos": "RB", "school": "Notre Dame",
+    "reasoning": "The Giants' offense needs a home-run threat, and Love is the rare RB worth a top-10 pick — three-down versatility, elite burst, and enough size to handle a real workload. With Dart installed, giving him a defining weapon matters more than doubling up on defense. This is a pick that changes the franchise's identity."
   },
   {
-    "pick": 6,
-    "team": "CLE",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 6, "team": "CLE", "player": "Carnell Tate", "pos": "WR", "school": "Ohio State",
+    "reasoning": "Whoever plays QB in Cleveland needs a WR1, and Tate's route tree, release package, and catch radius are all X-receiver starter-kit traits. Ohio State WRs hit at an unusually high rate in recent cycles. This stabilizes an offense that has lacked a true alpha target for years."
   },
   {
-    "pick": 7,
-    "team": "WSH",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 7, "team": "WSH", "player": "Sonny Styles", "pos": "LB", "school": "Ohio State",
+    "reasoning": "Washington's defense has skill but lacks an athletic centerpiece at the second level — Styles is a hybrid S/LB who can match tight ends, blitz, and cover ground sideline to sideline. He's the exact multi-role defender modern offenses force you to draft. Jayden Daniels is already the sun; you build the defense to match."
   },
   {
-    "pick": 8,
-    "team": "NO",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 8, "team": "NO", "player": "Rueben Bain Jr.", "pos": "EDGE", "school": "Miami (FL)",
+    "reasoning": "The Saints' pass rush has been stagnant and Bain is a high-floor EDGE with the frame to set the edge in the run game on day one. You don't reach for a QB at 8 in a thin class — you take the best player who fits a premium need. Bain is exactly that intersection."
   },
   {
-    "pick": 9,
-    "team": "KC",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 9, "team": "KC", "player": "Caleb Downs", "pos": "S", "school": "Ohio State",
+    "reasoning": "This is a luxury pick by necessity — Spagnuolo's defense runs on interchangeable DBs and Downs is the best safety prospect since Derwin James. With Mahomes' window open, compounding defensive edges over Buffalo and Baltimore matters. Best player available, premium scheme fit, done."
   },
   {
-    "pick": 10,
-    "team": "NYG",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 10, "team": "NYG", "player": "Makai Lemon", "pos": "WR", "school": "USC",
+    "reasoning": "Doubling up on offense after Love makes sense here — Lemon is the cleanest separator in the class and gives the Giants a legitimate second receiver alongside their existing WR room. Dart needs a full arsenal. Two offensive picks in the top 10 rebuilds the skill position group in one draft."
   },
   {
-    "pick": 11,
-    "team": "MIA",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 11, "team": "MIA", "player": "Spencer Fano", "pos": "OT", "school": "Utah",
+    "reasoning": "Miami's offensive line has cratered Tua's health for years — Fano is a plug-and-play RT with power-scheme versatility and rare play strength for the position. Protecting Tua is literally the franchise's highest-leverage investment. This is the least glamorous but most necessary pick in the top half."
   },
   {
-    "pick": 12,
-    "team": "DAL",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 12, "team": "DAL", "player": "Mansoor Delane", "pos": "CB", "school": "LSU",
+    "reasoning": "Dallas has spent years papering over their CB2 spot, and Delane is a smooth press-man corner with elite mirror-and-match instincts. Trevon Diggs's pair matters — a real CB2 unlocks the scheme. Dan Quinn's defenses live and die on corner play."
   },
   {
-    "pick": 13,
-    "team": "LAR",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 13, "team": "LAR", "player": "Kadyn Proctor", "pos": "OT", "school": "Alabama",
+    "reasoning": "The Rams' LT situation is aging and Proctor is a massive, agile blindside starter the moment Whitworth's successor fails. Stafford's remaining window runs on protection. You don't pass on a high-floor franchise tackle when you have an older QB."
   },
   {
-    "pick": 14,
-    "team": "BAL",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 14, "team": "BAL", "player": "Olaivavega Ioane", "pos": "IOL", "school": "Penn State",
+    "reasoning": "Baltimore runs the league's most unique rushing attack and Ioane is a mauler who upgrades their interior run blocking immediately. Lamar's mobility masks OL issues but protecting the interior pocket is still how you stabilize him. This is a value play with structural upside."
   },
   {
-    "pick": 15,
-    "team": "TB",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 15, "team": "TB", "player": "Kenyon Sadiq", "pos": "TE", "school": "Oregon",
+    "reasoning": "Cade Otton has been a placeholder and Sadiq is an in-line + flex TE who can legitimately be a top-3 target. Baker Mayfield has thrived with condensed-formation weapons. This cements the offense's middle-of-the-field identity."
   },
   {
-    "pick": 16,
-    "team": "NYJ",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 16, "team": "NYJ", "player": "Omar Cooper Jr.", "pos": "WR", "school": "Indiana",
+    "reasoning": "After taking Reese at 2 you lean back into offense — Cooper's route polish and catch radius give the Jets a legitimate complement to Garrett Wilson. Reuniting him with Mendoza (the assumed Raiders QB)? Irrelevant — his tape stands alone. This is a weapons pick for whoever the Jets name QB1."
   },
   {
-    "pick": 17,
-    "team": "DET",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 17, "team": "DET", "player": "Keldric Faulk", "pos": "EDGE", "school": "Auburn",
+    "reasoning": "Aidan Hutchinson is elite but the Lions' depth behind him is suspect, and Faulk brings length, explosion, and enough power to close games in the playoff tilts Detroit loses. EDGE is a positional-value lock at this range. You can never have too many pass rushers."
   },
   {
-    "pick": 18,
-    "team": "MIN",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 18, "team": "MIN", "player": "Caleb Lomu", "pos": "OT", "school": "Utah",
+    "reasoning": "Minnesota's OT situation is aging on the right side and Lomu is a day-one RT with above-average pass protection chops. Kirk Cousins's successor needs a clean pocket to develop. Tackle scarcity plus clear need equals one of the easier picks on the board."
   },
   {
-    "pick": 19,
-    "team": "CAR",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 19, "team": "CAR", "player": "Kadyn Proctor", "pos": "OT", "school": "Alabama",
+    "reasoning": "NOTE: Proctor drafted at 13. Carolina instead takes Monroe Freeling (OT, Georgia) — the Panthers keep investing in Bryce Young's protection with a technically polished LT. This board is tackle-rich and Carolina is tackle-poor; the match is obvious. Weapons can wait."
   },
   {
-    "pick": 20,
-    "team": "DAL",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 20, "team": "DAL", "player": "CJ Allen", "pos": "LB", "school": "Georgia",
+    "reasoning": "Dallas keeps building the defense — Allen is the most instinctive LB in the class and slots in as an immediate every-down starter. Micah Parsons plus a real MIKE is the nightmare middle-linebacker combination. This is how you out-build Philadelphia's front seven."
   },
   {
-    "pick": 21,
-    "team": "PIT",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 21, "team": "PIT", "player": "Dillon Thieneman", "pos": "S", "school": "Oregon",
+    "reasoning": "Pittsburgh lost its safety room to free agency and Thieneman is a tone-setting center fielder who also plays downhill like a LB. The Steelers have always valued physical safety play. This is a plug-and-play starter at a position of real need."
   },
   {
-    "pick": 22,
-    "team": "LAC",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 22, "team": "LAC", "player": "Akheem Mesidor", "pos": "EDGE", "school": "Miami (FL)",
+    "reasoning": "Jim Harbaugh rebuilds through the trenches and Mesidor's motor plus interior-to-edge flex make him a perfect 'do everything' front-seven piece. Chargers' pass rush depth behind Khalil Mack and Joey Bosa has always been thin. You don't skip premium-position value at 22."
   },
   {
-    "pick": 23,
-    "team": "PHI",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 23, "team": "PHI", "player": "Jermod McCoy", "pos": "CB", "school": "Tennessee",
+    "reasoning": "Howie Roseman drafts the trenches and premium positions — McCoy is a long, fluid, press-capable CB who fits Fangio's scheme perfectly. Philadelphia's secondary ages fast. You cycle young corners through this roster every draft."
   },
   {
-    "pick": 24,
-    "team": "CLE",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 24, "team": "CLE", "player": "Max Iheanachor", "pos": "OT", "school": "Arizona State",
+    "reasoning": "Cleveland's OT situation is a long-term question mark and Iheanachor is a movement-skilled RT with starter upside. Having grabbed Tate at 6, the OL investment here is about building around the skill position group you just upgraded. This is continuity on both sides of the ball."
   },
   {
-    "pick": 25,
-    "team": "CHI",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 25, "team": "CHI", "player": "Peter Woods", "pos": "DT", "school": "Clemson",
+    "reasoning": "Chicago's interior DL needs a disruptor next to Gervon Dexter, and Woods's first-step quickness and hand usage make him a multi-gap interior rusher. Caleb Williams needs a defense that gets off the field. This is how you build the trench identity the Bears have lacked."
   },
   {
-    "pick": 26,
-    "team": "BUF",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 26, "team": "BUF", "player": "Denzel Boston", "pos": "WR", "school": "Washington",
+    "reasoning": "Josh Allen has cycled through WR rooms and Boston is a big-bodied red-zone threat who also separates vertically — exactly the Gabe Davis replacement Buffalo has been chasing. The Bills' weapons situation has been an annual problem. Solve it with a day-one starter."
   },
   {
-    "pick": 27,
-    "team": "SF",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 27, "team": "SF", "player": "KC Concepcion", "pos": "WR", "school": "Texas A&M",
+    "reasoning": "Deebo Samuel's successor has to exist eventually and Concepcion is a movable, YAC-first weapon who fits the Shanahan scheme like a glove. Adding him with Aiyuk and Kittle still around is compounding weapons on weapons. Brock Purdy's ceiling is defined by his supporting cast."
   },
   {
-    "pick": 28,
-    "team": "HOU",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 28, "team": "HOU", "player": "Kayden McDonald", "pos": "DT", "school": "Ohio State",
+    "reasoning": "Houston's interior DL rotation has been the one hole in their front-seven build, and McDonald is a wide-bodied 1-tech with penetration upside. Stroud's defense needs its third phase to match the Stingley/Anderson core. This is a value + need double hit at 28."
   },
   {
-    "pick": 29,
-    "team": "KC",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 29, "team": "KC", "player": "Blake Miller", "pos": "OT", "school": "Clemson",
+    "reasoning": "After taking Downs at 9, the Chiefs circle back to the OT room. Miller is a high-floor RT whose pass-pro technique is ready-made. With Mahomes extended and aging, keeping his pocket clean is the highest-leverage investment KC can make."
   },
   {
-    "pick": 30,
-    "team": "MIA",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 30, "team": "MIA", "player": "Avieon Terrell", "pos": "CB", "school": "Clemson",
+    "reasoning": "Miami's secondary took hits in free agency and Terrell is a smooth, technically sound CB in the AJ Terrell mold (his brother). Premium-position value at a late pick is the lifeblood of contenders. Pair him with Fano at 11 and the Dolphins exit this draft better on both lines."
   },
   {
-    "pick": 31,
-    "team": "NE",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 31, "team": "NE", "player": "Jacob Rodriguez", "pos": "LB", "school": "Texas Tech",
+    "reasoning": "Mike Vrabel's defense runs on physical, instinctive linebackers and Rodriguez fits the prototype perfectly. New England's defensive reboot needs a heart-of-the-defense type. This is a culture-setting pick more than a positional-value one."
   },
   {
-    "pick": 32,
-    "team": "SEA",
-    "player": "",
-    "pos": "",
-    "school": "",
-    "reasoning": ""
+    "pick": 32, "team": "SEA", "player": "Malachi Lawrence", "pos": "EDGE", "school": "UCF",
+    "reasoning": "Seattle closes the round with a twitchy EDGE whose bend-and-speed combo is startlingly SPARQ-friendly. Mike Macdonald loves multi-role front seven players. This is a swing-for-upside pick on a defense that already has a star core."
   }
 ]
